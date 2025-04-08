@@ -80,7 +80,7 @@ jobs:
     needs:
         - build-kernel-op12
         - build-kernel-opace3pro
-        - build-kernel-opace3pro-a15
+        - build-kernel-opace3pra
         - build-kernel-opace2
         - build-kernel-opace2pro
         - build-kernel-opace5
